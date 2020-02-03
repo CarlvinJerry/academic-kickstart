@@ -18,27 +18,47 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Quantitative Analyst"
+  company = "Innova Limited"
+  company_url = "https://www.innova.co.ke/"
+  location = "Nairobi, Kenya"
+  date_start = "2018-01-01"
   date_end = ""
-  description = """
+  description = """Applying statistical concepts in Financial Markets leveraging **R**, **Python** and **F#'s** abilities to develop statistical and Machine Learning models.
   Responsibilities include:
   
-  * Analysing
-  * Modelling
+  * Developing financial analysis models
+  * Testing developed models
+  * R&D
   * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Quantitative Analyst - Internship"
+  company = "Innova Limited"
+  company_url = "https://www.innova.co.ke/"
+  location = "Nairobi, Kenya"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2017-12-31"
+  description = """Developed theoretical financial analysis models and tested them on real financial data in the Kenyan markets.
+   Researched on different Machine Learning concepts and their application in the financial sector. Participated in data manipulation, analysis and visualization projects."""
+   
+  # [design] 
+  # [design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  #Background image.
+  #image = "rawdata2.jpg"  # Name of image in `static/img/`.
+  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
 +++
