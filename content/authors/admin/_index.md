@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Carlvin J Mwange
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Quantitative Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Innova Limited
+  url: "https://www.innova.co.ke/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data analysis & visualization, Machine Learning & AI focused on but not limited to the Financial Markets.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Analysis & Visualization
+- Financial Mathematics 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc Financial Engineering
+    institution: Jomo Kenyatta University of Agriculture and Technology (JKUAT)
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +38,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/PipeFunction
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/CarlvinJerry
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,15 +53,19 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "carlvinjerry@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Carlvin is data science enthusiast mainly interested in analytics & visualization, financial modelling and predictive analytics in machine learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As a quant analyst, he develops and tests existing to new models for financial markets analysis and reporting. Au courant with the vastly growing technology space and it's use in the financial sector, he constantly seeks to up-skill his expertise in the use of applied Statistics through the **R** and **PYTHON** programming languages, bundled with functional programming in **F#** for package development for the **.Net** framework integration.
+
+In the night, he performs random data analysis and visualization to extract meaningful insights while exploring different statistical concepts and their applications in real world problems.
+
+On this blogsite you will find some of his research work in posts, talks presented as well as personal data science projects. Feel free to read, comment or offer new suggestions or educate.
