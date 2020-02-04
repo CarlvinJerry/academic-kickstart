@@ -17,7 +17,7 @@ copyright = "&copy; Carlvin .M., {year}"
 
 
 #publish directory
-publishDir = ".../CarlvinJerry.github.io"
+#publishDir = ".../CarlvinJerry.github.io"
 
 ############################
 ## Advanced options below ##
