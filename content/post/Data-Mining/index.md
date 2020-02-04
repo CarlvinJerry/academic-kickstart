@@ -25,10 +25,10 @@ example…
 <br>
 
 With the help of APIs, we are easily able to get data from such
-platforms to be used for further analysis. In this article we will go
-through the preliminaries of text mining in R using Twitter data. The
+platforms to be used for further analysis.In this article we will go
+through the preliminaries of text mining in R using Twitter data.The
 main advantage of these APIs is that the data we will fetch comes in a
-well-structured format which makes our work easier when crunching. In
+well-structured format which makes our work easier when crunching.In
 this case we will use the readily available Twitter API and create our
 own Twitter app that will then help in fetching the data.
 
